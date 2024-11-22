@@ -3,7 +3,7 @@
 ## 📖 About me
 * 🎓 I'm a web development student
 * 🌐 Python and PL/SQL autodidact
-* 📱 I love technology, I gow up surrounded by it!
+* 📱 I love technology, I grow up surrounded by it!
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages</b>
 <br>
