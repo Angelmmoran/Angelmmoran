@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Love technology. Always trying to learn something new.<br>📚 I'm currently learning  web development.<br>🎯 My gooal is to develop my career and continue learning new skills</p>
+<p align="left">✨ Love technology. Always trying to learn something new.<br>📚 I'm currently learning  web development, PL/ SQL and Git <br>🎯 My goal is to develop my career and continue learning new skills</p>
 
 ###
 
