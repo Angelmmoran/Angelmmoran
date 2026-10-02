@@ -47,7 +47,7 @@ Security Operations & Networking enthusiast based in Spain. Focused on threat de
 
 ### 📌 Featured Repositories
 
-- 🌐 **[CCNA-Labs-Notes](https://github.com/Angelmmoran/CCNA):** Comprehensive theory notes, subnetting cheat-sheets, and Cisco Packet Tracer network topologies (.pkt).
+- 🌐 **[CCNA-Labs-Notes](https://github.com/Angelmmoran/CCNA_200-301):** Comprehensive theory notes, subnetting cheat-sheets, and Cisco Packet Tracer network topologies (.pkt).
 
 ---
 
